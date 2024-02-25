@@ -70,4 +70,4 @@ Big Data: PySpark, Databricks, Hadoop (HIVE, HDFS, Map Reduce)
 Design tools and Methodologies: JIRA, Confluence, Visio, Agile, Scrum, Waterfall, Gantt Chart, Waterfall, NLP
 Coursework: Data Mining, Data Science, Business Statistics using R, Predictive Modeling, Adaptive Business Intelligence, Visual Analytics
 
-![image](https://github.com/rohitghsh/portfolio/assets/161164073/768a8130-bca5-4597-9524-c9ce87852d34)
+
