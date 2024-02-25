@@ -1,5 +1,20 @@
-title: Rohit Ghosh
-logo: /images/WhatsApp%20Image%202024-02-24%20at%207.46.39%20PM.jpeg
-description: 
+title: <p align="center"> Rohit Ghosh </p>
+
+logo: "/images/WhatsApp Image 2024-02-24 at 7.46.39 PM.jpeg"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rohit-ghosh7797/">LinkedIn</a> |
+  <a href="https://github.com/rohitghsh">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am pursing MS degree in Business Analytics at University of Connecticut.
+  <br><br>
+  I am an ex Data Science Intern at Bensussen Deutch and Associates with a focus on NLP and Deep Learning research.
+  <br><br>
+  </p>
+
 show_downloads: False
 theme: jekyll-theme-minimal
