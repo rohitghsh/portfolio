@@ -20,7 +20,8 @@ Experienced Data Scientist with a Master's in Business Analytics and Project Man
 
 •	Implemented advanced anomaly detection using Scikit-learn and Pandas, enhancing data integrity and fortified the reliability of analytical models, contributing to more informed decision-making processes for marketing and operations stakeholders.
 
-### Noteshelf (Fluid Touch Pvt. Ltd.) | Business Analyst – User Experience, Hyderabad, India 	             August 2020 – February 2022
+### Noteshelf (Fluid Touch Pvt. Ltd.) | Business Analyst – User Experience, Hyderabad, India 	             
+#### August 2020 – February 2022
 •	Administered dashboards using Excel, Power BI, and Tableau to analyse, visualize, and document important user insights and KPIs about the Noteshelf app, resulting in a streamlined flow of information across teams and a 20% increase in data accessibility.
 
 •	Developed and implemented a new data validation system that improved data accuracy by 35% and reduced errors by 28%, resulting in more reliable insights for decision-making for marketing and android development teams of Noteshelf – Android.
