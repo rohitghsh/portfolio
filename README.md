@@ -4,7 +4,7 @@
 
 ## PROFESSIONAL EXPERIENCE
 ### CTtransit | Graduate Analytics Consultant, Hartford, Connecticut, USA
-•	Analyzed data from bus routes with high ridership, variable OTP, and route length, demonstrating a potential 30% improvement in On Time Performance and Y% increase in service reliability by removing Timepoints within the Transportation network.
+•	Analyzed data from bus routes with high ridership, variable OTP, and route length, demonstrating a potential 30% improvement in On Time Performance and 45% increase in service reliability by removing Timepoints within the Transportation network.
 
 •	Enhanced OTP reporting system to provide detailed insights on Operator performance, including missed stops, early stops, on-time performance, and late arrivals, enabling supervisors to pinpoint OTP deviations and use the report as a discipline tool improving overall ridership and rider experience.
 
