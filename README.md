@@ -2,12 +2,16 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, R
 
-
-## SUMMARY
-Experienced Data Scientist with a Master's in Business Analytics and Project Management, bringing 3+ years of expertise in developing data-intensive applications. Specialized in customer segmentation, skilled in predictive modeling, data processing, and data mining using Python, R, SQL, and adept at visualization with Power BI. Translates business needs into impactful deliverables.
-
-
 ## PROFESSIONAL EXPERIENCE
+### CTtransit | Graduate Analytics Consultant, Hartford, Connecticut, USA
+•	Analyzed data from bus routes with high ridership, variable OTP, and route length, demonstrating a potential 30% improvement in On Time Performance and Y% increase in service reliability by removing Timepoints within the Transportation network.
+
+•	Enhanced OTP reporting system to provide detailed insights on Operator performance, including missed stops, early stops, on-time performance, and late arrivals, enabling supervisors to pinpoint OTP deviations and use the report as a discipline tool improving overall ridership and rider experience.
+
+•	Automated incident report analysis, including supervisor comments (DAR), with a focus on capturing and analyzing lost trips for operational impact and financial implications.
+
+• Developed a report that includes lost time/mileage for FTA compliance, previously calculated manually (always rounded up), with details obtained from Diana, possibly using Crystal Report for external calculations
+
 ### Bensussen Deutsch & Associates, LLC. | Data Science Intern, Washington, USA	                                    
 #### June 2023 – August 2023
 •	Implemented Gaussian Mixture Model using R and Python for customer segmentation to categorize 200,000 customers into 4 dynamic segments with an 89% accuracy, leading to improvements in strategies for customer engagement.
